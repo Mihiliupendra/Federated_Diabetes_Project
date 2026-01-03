@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+scipy
+tensorflow
+shap
+imbalanced-learn
+matplotlib
+seaborn
+plotly
+jupyter
+notebook
+ipython
+python-dotenv
+tqdm
+pyyaml
